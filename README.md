@@ -16,10 +16,10 @@
 - Web Development Career Path - <a href="https://www.codecademy.com/profiles/janmerkel">Code Cademy</a>
 
 ## Projects
- - R³ Robot - FIAP (University Evaluation) - 2019
+ - R³ Robot - FIAP (College Evaluation) - 2019
  - Chimera Project - FIAP (Research) - 2019
- - Healthcare System - FIAP (University Evaluation) - 2020
- - Hey Partner (App) - FIAP (University Evaluation) - 2020
+ - Healthcare System - FIAP (College Evaluation) - 2020
+ - Hey Partner (App) - FIAP (College Evaluation) - 2020
 
 
 ### 💻 Development Projects
