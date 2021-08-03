@@ -16,13 +16,39 @@
 - Web Development Career Path - <a href="https://www.codecademy.com/profiles/janmerkel">Code Cademy</a>
 
 ## Projects
- - R³ Robot - FIAP (University Evaluation)
- - Chimera Project - FIAP (Research)
- - Healthcare System - FIAP (University Evaluation)
- - Hey Partner (App) - FIAP (University Evaluation)
- - 
-<!-- 
- - People Health Management - IBM + Partner
- - Maratona Behind the Code 2021 - IBM
- - Contract Analysis - IBM + Partner
---!>
+ - R³ Robot - FIAP (University Evaluation) - 2019
+ - Chimera Project - FIAP (Research) - 2019
+ - Healthcare System - FIAP (University Evaluation) - 2020
+ - Hey Partner (App) - FIAP (University Evaluation) - 2020
+
+
+### 💻 Development Projects
+to be Released...
+
+### 🤖Artificial Intelligence Projects
+to be Released...
+ 
+ <!-- 
+ ### 💻 Development
+- Maratona Behind the Code 2021 - IBM - 2021
+
+
+### 🤖Artificial Intelligence
+
+
+ - People Health Management - IBM + Partner - 2021
+ - Contract Analysis - IBM + Partner - 2021
+ -->
+ ### 🌍 Languages I Speak
+  - English
+  - Portuguese
+  - Spanish
+  - German
+
+## ✉ Contact info
+Personal E-mail: janpetermr@gmail.com
+
+Business E-mail: janmerkel@ibm.com
+
+<a href="https://www.linkedin.com/in/janpetermerkel/">LinkedIn Page</a>
+ 
