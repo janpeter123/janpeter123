@@ -50,7 +50,8 @@ to be Released...
   - German
 
 ## ✉ Contact info
-Personal E-mail: janpetermr@gmail.com
 
-<a href="https://www.linkedin.com/in/janpetermerkel/">LinkedIn Page</a>
+[![Gmail Badge](https://img.shields.io/badge/-janpetermr@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:janpetermr@gmail.com)](mailto:janpetermr@gmail.com)
+
+[![Linkedin Badge](https://img.shields.io/badge/-Jan_Peter_Merkel-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/janpetermerkel/)](https://www.linkedin.com/in/janpetermerkel/)
  
