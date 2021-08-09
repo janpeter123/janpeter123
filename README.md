@@ -12,7 +12,7 @@
 
 ## 🥇 My Achievments
 - IBM Certified Cloud Advisor
-- More than **20** Badges about IBM Technologies earned, from **Data Science** to **Watson Services**. <a href="https://www.credly.com/users/jan-peter-merkel/badges">See Them Here!</a>
+- More than **20** Badges earned regarding IBM Technologies, from **Data Science** to **Watson Services**. <a href="https://www.credly.com/users/jan-peter-merkel/badges">See Them Here!</a>
 - Web Development Career Path - <a href="https://www.codecademy.com/profiles/janmerkel">Code Cademy</a>
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janpeter123&theme=light" />
