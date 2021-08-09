@@ -52,7 +52,5 @@ to be Released...
 ## ✉ Contact info
 Personal E-mail: janpetermr@gmail.com
 
-Business E-mail: janmerkel@ibm.com
-
 <a href="https://www.linkedin.com/in/janpetermerkel/">LinkedIn Page</a>
  
