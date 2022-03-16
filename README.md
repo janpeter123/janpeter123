@@ -19,30 +19,30 @@
 
 
 
-## Projects
+## University Projects
  - R³ Robot - FIAP (College Evaluation) - 2019
  - Chimera Project - FIAP (Research) - 2019
- - Healthcare System - FIAP (College Evaluation) - 2020
  - Hey Partner (App) - FIAP (College Evaluation) - 2020
+ - Ford Guardian - FIAP (College Evaluation) - 2021
 
 
 ### 💻 Development Projects
-to be Released...
+- Contract Analysis Using IBM Watson API's **
+- Maratona Behind The Code **
+- Regulatory Technology - Front-End and Back-End **
+- Maratona Behind the Code 2021 **
+- Search Engine using Watson Discovery **
+
+** Developed on GitHub Enterprise
+
 
 ### 🤖Artificial Intelligence Projects
-to be Released...
+- Regulatory Technology with I.A Using IBM Watson API's **
+- People Health Management using scikit learn **
+- Ford Guardian - FIAP - 2021
+
+** Developed on GitHub Enterprise
  
- <!-- 
- ### 💻 Development
-- Maratona Behind the Code 2021 - IBM - 2021
-
-
-### 🤖Artificial Intelligence
-
-
- - People Health Management - IBM + Partner - 2021
- - Contract Analysis - IBM + Partner - 2021
- -->
  ### 🌍 Languages I Speak
   - English
   - Portuguese
