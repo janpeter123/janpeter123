@@ -19,7 +19,7 @@
 
 
 
-## University Projects
+## College Projects
  - R³ Robot - FIAP (College Evaluation) - 2019
  - Chimera Project - FIAP (Research) - 2019
  - Hey Partner (App) - FIAP (College Evaluation) - 2020
