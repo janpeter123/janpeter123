@@ -7,7 +7,7 @@
 - I'm from São Paulo, Brazil
 - 👨🏻‍🎓 I'm a Computer Engineering Student at FIAP.
 - 👨🏻‍💻 Software Developer Intern @ IBM
-- IBM Hybrid Cloud Build Team Member
+- IBM Build Labs Member
 - See my IBM Profile <a href="https://developer.ibm.com/profiles/janmerkel/" target="_blank">Here!</a>
 
 ## 🥇 My Achievments
