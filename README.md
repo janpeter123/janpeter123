@@ -6,7 +6,7 @@
 ### 👱🏻‍♂️ About Me
 - I'm from São Paulo, Brazil
 - 👨🏻‍🎓 I'm a Computer Engineering Student at FIAP.
-- 👨🏻‍💻 Software Developer Intern @ IBM
+- 👨🏻‍💻 Software Developer @ IBM Build Labs
 - IBM Build Labs Member
 - See my IBM Profile <a href="https://developer.ibm.com/profiles/janmerkel/" target="_blank">Here!</a>
 
@@ -34,7 +34,6 @@
 - Search Engine using Watson Discovery **
 
 ** Developed on GitHub Enterprise
-
 
 ### 🤖Artificial Intelligence Projects
 - Regulatory Technology with I.A Using IBM Watson API's **
