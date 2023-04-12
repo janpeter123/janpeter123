@@ -17,31 +17,6 @@
 
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=janpeter123&theme=light" />
 
-
-
-## College Projects
- - R³ Robot - FIAP (College Evaluation) - 2019
- - Chimera Project - FIAP (Research) - 2019
- - Hey Partner (App) - FIAP (College Evaluation) - 2020
- - Ford Guardian - FIAP (College Evaluation) - 2021
-
-
-### 💻 Development Projects
-- Contract Analysis Using IBM Watson API's **
-- Maratona Behind The Code **
-- Regulatory Technology - Front-End and Back-End **
-- Maratona Behind the Code 2021 **
-- Search Engine using Watson Discovery **
-
-** Developed on GitHub Enterprise
-
-### 🤖Artificial Intelligence Projects
-- Regulatory Technology with I.A Using IBM Watson API's **
-- People Health Management using scikit learn **
-- Ford Guardian - FIAP - 2021
-
-** Developed on GitHub Enterprise
- 
  ### 🌍 Languages I Speak
   - English
   - Portuguese
