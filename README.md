@@ -5,13 +5,8 @@
 
 ### 👱🏻‍♂️ About Me
 - I'm from São Paulo, Brazil
-- 👨🏻‍🎓 I'm a Computer Engineering Student at FIAP.
-- 👨🏻‍💻 Cloud Native Developer @ IBM Build Labs
-
-## 🥇 My Achievments
-- IBM Certified Cloud Advisor
-- More than **20** Badges earned regarding IBM Technologies, from **Data Science** to **Watson Services**. <a href="https://www.credly.com/users/jan-peter-merkel/badges">See Them Here!</a>
-- Web Development Career Path - <a href="https://www.codecademy.com/profiles/janmerkel">Code Cademy</a>
+- 👨🏻‍🎓 Bachelor in Computer Engineering @ FIAP
+- 👨🏻‍💻 AI Engineer @ IBM Build Lab
 
  ### 🌍 Languages I Speak
   - English
