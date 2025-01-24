@@ -6,7 +6,7 @@
 ### 👱🏻‍♂️ About Me
 - I'm from São Paulo, Brazil
 - 👨🏻‍🎓 Bachelor in Computer Engineering @ FIAP
-- 👨🏻‍💻 AI Engineer @ IBM Build Lab
+- 👨🏻‍💻 Partner Engineer @ YouTube | Google
 
  ### 🌍 Languages I Speak
   - English
