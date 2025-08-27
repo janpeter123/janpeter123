@@ -5,6 +5,7 @@
 
 ### 👱🏻‍♂️ About Me
 - I'm from São Paulo, Brazil
+- MBA in Business Administration
 - 👨🏻‍🎓 Bachelor in Computer Engineering @ FIAP
 - 👨🏻‍💻 Partner Engineer @ YouTube | Google
 
